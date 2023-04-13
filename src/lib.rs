@@ -178,7 +178,7 @@ performance in some cases. For that reason, prefilters can be explicitly
 disabled via
 [`AhoCorasickBuilder::prefilter`](struct.AhoCorasickBuilder.html#method.prefilter).
 */
-
+#![allow(clippy::if_same_then_else)]
 #![deny(missing_docs)]
 
 // We can never be truly no_std, but we could be alloc-only some day, so
