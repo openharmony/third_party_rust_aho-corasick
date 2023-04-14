@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "aho-corasick",
+    "License": "MIT",
+    "License File": "LICENSE-MIT",
+    "Version Number": "0.7.20",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/BurntSushi/aho-corasick",
+    "Description": "A string searching algorithm that efficiently searches for multiple patterns in a text string."
+  }
+]
