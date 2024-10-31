@@ -1,6 +1,6 @@
 [
   {
-    "Name": "aho-corasick",
+    "Name": "BurntSushi/aho-corasick",
     "License": "MIT",
     "License File": "LICENSE-MIT",
     "Version Number": "0.7.20",
