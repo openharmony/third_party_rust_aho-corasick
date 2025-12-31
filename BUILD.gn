@@ -26,4 +26,7 @@ ohos_cargo_crate("lib") {
     cargo_pkg_description = "Fast multiple substring searching."
     deps = ["//third_party/rust/crates/memchr:lib"]
     features = ["std"]
+    module_output_extension = ".rlib"
+    part_name = "rust_aho_corasick"
+    subsystem_name = "thirdparty"
 }
